@@ -1,5 +1,5 @@
 # coldcall
-`coldcall` is an application for instructors to help encourage student engagement during lecture
+Help instructors encourage student engagement during lecture.
 
 Cold Calling has been proven to be affective at encouraging student engagement, showing the students that we care about what they think and that the student matters.
 

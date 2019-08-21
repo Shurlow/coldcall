@@ -1,0 +1,25 @@
+{
+  "name": "coldcall",
+  "version": "1.0.0",
+  "description": "Help instructors encourage student engagement during lecture",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shurlow/coldcall.git"
+  },
+  "keywords": [],
+  "author": "Scott Hurlow <scott.hurlow@galvanize.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shurlow/coldcall/issues"
+  },
+  "homepage": "https://github.com/Shurlow/coldcall#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jest": "^24.8.0",
+    "morgan": "^1.9.1"
+  }
+}
